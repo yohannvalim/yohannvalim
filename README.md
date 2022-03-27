@@ -1,4 +1,5 @@
-## Olá! Eu sou o Yohann Valim
+## Olá! Eu sou o Yohann Valim! Tenho 26 anos e estudo Análise e Desenvolvimento de Sistemas na Ulbra - Torres.
+
 
 <div align="center">
   <a href="https://github.com/yohannvalim">
